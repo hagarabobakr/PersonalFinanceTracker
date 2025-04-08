@@ -14,6 +14,7 @@ out/
 .settings
 .springBeans
 .sts4-cache
+.vcs.xml
 bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
